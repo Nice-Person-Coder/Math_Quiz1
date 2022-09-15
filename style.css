@@ -1,0 +1,15 @@
+.body_background
+{
+    background-position: center;
+    background-size: contain;
+    background:url("login_1.png");
+}
+
+.login_div1 , .login_div2
+{
+    background: cyan;
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+}
+
